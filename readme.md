@@ -80,7 +80,7 @@ I enjoy writing clean, maintainable code and constantly learning new technologie
   
 ### Databases
 <table>
-  <th>MySql</th>
+  <th>MySQL</th>
   <th>SQL Server</th>
   <th>PostgreSQL</th>
   <th>MariaDB</th>
